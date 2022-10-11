@@ -1,0 +1,37 @@
+{
+  "id": "3691033",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838472",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "15838489",
+      "name": "import",
+      "font_class": "import",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "15838496",
+      "name": "layers",
+      "font_class": "layers",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838501",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}

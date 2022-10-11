@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3691033 */
+  src: url('iconfont.woff2?t=1665395230837') format('woff2'),
+       url('iconfont.woff?t=1665395230837') format('woff'),
+       url('iconfont.ttf?t=1665395230837') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shuju-01:before {
+  content: "\e960";
+}
+
+.icon-shuju-03:before {
+  content: "\e961";
+}
+
+.icon-basic_share_f:before {
+  content: "\e65d";
+}
+
+.icon-basic_tar_f:before {
+  content: "\e65e";
+}
+
+.icon-basic_magic:before {
+  content: "\e65c";
+}
+
+.icon-add:before {
+  content: "\e601";
+}
+
+.icon-arrow-left:before {
+  content: "\e602";
+}
+
+.icon-tools:before {
+  content: "\e610";
+}
+
+.icon-email:before {
+  content: "\e66f";
+}
+
+.icon-import:before {
+  content: "\e675";
+}
+
+.icon-layers:before {
+  content: "\e676";
+}
+
+.icon-menu:before {
+  content: "\e677";
+}
+

@@ -1,0 +1,93 @@
+{
+  "id": "3691033",
+  "name": "myicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26451275",
+      "name": "数据-01",
+      "font_class": "shuju-01",
+      "unicode": "e960",
+      "unicode_decimal": 59744
+    },
+    {
+      "icon_id": "26451277",
+      "name": "数据-03",
+      "font_class": "shuju-03",
+      "unicode": "e961",
+      "unicode_decimal": 59745
+    },
+    {
+      "icon_id": "32125911",
+      "name": "basic_share_f",
+      "font_class": "basic_share_f",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "32125913",
+      "name": "basic_tar_f",
+      "font_class": "basic_tar_f",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "32125916",
+      "name": "basic_magic",
+      "font_class": "basic_magic",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "32162368",
+      "name": "humi-project",
+      "font_class": "add",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "32162369",
+      "name": "arrow-left",
+      "font_class": "arrow-left",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "32162566",
+      "name": "tools",
+      "font_class": "tools",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "15838472",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "15838489",
+      "name": "import",
+      "font_class": "import",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "15838496",
+      "name": "layers",
+      "font_class": "layers",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838501",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}
