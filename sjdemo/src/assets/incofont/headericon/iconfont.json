@@ -1,0 +1,23 @@
+{
+  "id": "3702085",
+  "name": "商家项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "79648",
+      "name": "三角1",
+      "font_class": "sanjiao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7720075",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

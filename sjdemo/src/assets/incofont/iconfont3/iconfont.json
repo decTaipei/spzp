@@ -1,0 +1,51 @@
+{
+  "id": "3702085",
+  "name": "商家项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "658044",
+      "name": "解锁",
+      "font_class": "jiesuo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "668429",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "32281159",
+      "name": "通知设置",
+      "font_class": "tongzhishezhi",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "2076190",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "79648",
+      "name": "三角1",
+      "font_class": "sanjiao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7720075",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
